@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleTable_SingleView", "MultipleTable_SingleView\MultipleTable_SingleView.csproj", "{054A76C0-5FDF-46E1-A81B-F7CF128191CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{054A76C0-5FDF-46E1-A81B-F7CF128191CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054A76C0-5FDF-46E1-A81B-F7CF128191CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054A76C0-5FDF-46E1-A81B-F7CF128191CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054A76C0-5FDF-46E1-A81B-F7CF128191CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2A4BF93-E992-4900-9333-F8EADFB41657}
+	EndGlobalSection
+EndGlobal
